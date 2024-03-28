@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "AzureKVRotationConnVehicle": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true,
+      "authenticationMode": "Windows",
+      "remoteDebugMachine": "funappvpaasqa.azurewebsites.net:4024",
+      "nativeDebugging": true
+    }
+  }
+}

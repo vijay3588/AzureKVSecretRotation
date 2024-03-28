@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "compute.function.windows1": {
+      "group": "connections",
+      "type": "compute.function.windows",
+      "connectionId": null
+    },
+    "secrets1": {
+      "type": "secrets",
+      "connectionId": "VaultUri"
+    },
+    "storage1": {
+      "type": "storage",
+      "connectionId": "sawevpaasbiqa"
+    },
+    "secrets2": {
+      "type": "secrets"
+    },
+    "appInsights1": {
+      "type": "appInsights",
+      "connectionId": "APPLICATIONINSIGHTS_CONNECTION_STRING"
+    }
+  }
+}
